@@ -48,6 +48,10 @@ import javax.swing.event.ListSelectionListener;
 
 import java.awt.GridLayout;
 
+/*
+ * Main class for the system.
+ */
+
 public class Chinese_Radical_Learning_Alpha {
 
 	private JFrame frame;
