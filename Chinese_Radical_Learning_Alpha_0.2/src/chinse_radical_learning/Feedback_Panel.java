@@ -13,6 +13,10 @@ import javax.swing.border.LineBorder;
 import javax.swing.event.ListSelectionEvent;
 import javax.swing.event.ListSelectionListener;
 
+/*
+ * This class manages the panel showing feedback information.
+ */
+
 public class Feedback_Panel extends JPanel{
 	
 	private Exercises_Panel canvas;
