@@ -24,6 +24,10 @@ import javax.swing.border.LineBorder;
 import javax.swing.event.ListSelectionEvent;
 import javax.swing.event.ListSelectionListener;
 
+/*
+ * This class manages the panel showing exercises.
+ */
+
 public class Exercises_Panel extends Refreshable_JPanel {
 	
 	private int _question_width = 520;
